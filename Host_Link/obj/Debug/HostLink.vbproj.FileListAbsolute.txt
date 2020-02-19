@@ -1,0 +1,10 @@
+C:\Users\D90-045\Desktop\HostLink\Host_Link\obj\Debug\HostLink.exe
+C:\Users\D90-045\Desktop\HostLink\Host_Link\obj\Debug\HostLink.xml
+C:\Users\D90-045\Desktop\HostLink\Host_Link\obj\Debug\HostLink.pdb
+C:\Users\D90-045\Desktop\HostLink\Host_Link\bin\Debug\HostLink.exe
+C:\Users\D90-045\Desktop\HostLink\Host_Link\bin\Debug\HostLink.pdb
+C:\Users\D90-045\Desktop\HostLink\Host_Link\bin\Debug\HostLink.xml
+C:\Users\D90-045\Desktop\HostLink\Host_Link\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\D90-045\Desktop\HostLink\Host_Link\obj\Debug\HostLink.Form1.resources
+C:\Users\D90-045\Desktop\HostLink\Host_Link\obj\Debug\HostLink.Resources.resources
+C:\Users\D90-045\Desktop\HostLink\Host_Link\obj\Debug\HostLink.vbproj.GenerateResource.Cache
